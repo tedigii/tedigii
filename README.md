@@ -9,7 +9,7 @@
     Languages: JavaScript, HTML, CSS, TypeScript (learning)
     Frontend: React (learning), Tailwind CSS (learning)
     Backend: Node.js (learning)
-    Other: Git, WordPress (basic), VS Code
+    Other: Git, WordPress (basic),
 
 📂 Projects
   Check out my repositories to see what I'm working on. I’m currently focused on:
