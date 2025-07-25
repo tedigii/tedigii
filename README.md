@@ -1,8 +1,8 @@
 👋 Hi, I'm Teodor Lubomirov
   🎓 First-year student in Information Systems and Technologies  
-  💻 Passionate about web development and constantly learning new technologies  
-  🌱 Currently learning: TypeScript, React, Node.js, MongoDB, Tailwind CSS  
-  🚀 I enjoy building small projects and solving real-world problems  
+  💻 Interest about web and game development , constantly learning new technologies  
+  🌱 Currently learning: TypeScript, React, Node.js, MongoDB,
+  🚀 I enjoy building projects and solving real-world problems  
   📫 Reach me at: lubomiroveng@gmail.com
 
 🛠️ Technologies & Tools
